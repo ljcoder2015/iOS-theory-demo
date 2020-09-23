@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC78B41E-A416-44F6-8159-7CDE2B99FE35"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5238E23F-48D5-40B8-8DEB-5A686C6F995E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-runtime-new.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1392"
+            endingLineNumber = "1392"
+            landmarkName = "instancesRequireRawIsa()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "418B4676-4A93-4D64-B4DE-B51FF514A624"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1728"
+            endingLineNumber = "1728"
+            landmarkName = "objc_alloc(cls)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EACB3AC-F28B-4AAA-B34B-00C97DF4D8C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1730"
+            endingLineNumber = "1730"
+            landmarkName = "objc_alloc(cls)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB11C0A4-46E3-4A9D-A29D-D58891C13049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1721"
+            endingLineNumber = "1721"
+            landmarkName = "_objc_rootAlloc(cls)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E73E05-9C7F-42B6-9B28-3777E0A0618F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1723"
+            endingLineNumber = "1723"
+            landmarkName = "_objc_rootAlloc(cls)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3BD80D4-FFF0-46BE-AEAC-F4547246C5A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2321"
+            endingLineNumber = "2321"
+            landmarkName = "+alloc"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A663096-3FCE-4AA8-81D0-7AC62BA32686"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-object.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
+            landmarkName = "objc_object::initIsa(cls, nonpointer, hasCxxDtor)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69000BDB-DD91-4653-A7FB-FDCF7A01A7FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-object.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
+            landmarkName = "objc_object::initInstanceIsa(cls, hasCxxDtor)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "430A6A0A-829A-4AA2-B1A4-5C52D3D9296D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-runtime-new.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7544"
+            endingLineNumber = "7544"
+            landmarkName = "_class_createInstanceFromZone(cls, extraBytes, zone, OBJECT_CONSTRUCT_NONE)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "430A6A0A-829A-4AA2-B1A4-5C52D3D9296D - 47d82fca46facfd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstance"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC2%E8%8A%82%E8%AF%BE-%E5%AF%B9%E8%B1%A1/04--%E5%A4%87%E8%AF%BE%E4%BB%A3%E7%A0%81/%E5%AE%8C%E6%88%90%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7544"
+                  endingLineNumber = "7544"
+                  offsetFromSymbolStart = "383">
+               </Location>
+               <Location
+                  uuid = "430A6A0A-829A-4AA2-B1A4-5C52D3D9296D - 381e7a34ca32abbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_objc_rootAllocWithZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC2%E8%8A%82%E8%AF%BE-%E5%AF%B9%E8%B1%A1/04--%E5%A4%87%E8%AF%BE%E4%BB%A3%E7%A0%81/%E5%AE%8C%E6%88%90%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7544"
+                  endingLineNumber = "7544"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "430A6A0A-829A-4AA2-B1A4-5C52D3D9296D - 8c8878b33dd3cd0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_object_copyFromZone(objc_object*, unsigned long, void*)"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC2%E8%8A%82%E8%AF%BE-%E5%AF%B9%E8%B1%A1/04--%E5%A4%87%E8%AF%BE%E4%BB%A3%E7%A0%81/%E5%AE%8C%E6%88%90%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7544"
+                  endingLineNumber = "7544"
+                  offsetFromSymbolStart = "453">
+               </Location>
+               <Location
+                  uuid = "430A6A0A-829A-4AA2-B1A4-5C52D3D9296D - 33fe713e8b370d8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "class_createInstanceFromZone"
+                  moduleName = "libobjc.A.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC2%E8%8A%82%E8%AF%BE-%E5%AF%B9%E8%B1%A1/04--%E5%A4%87%E8%AF%BE%E4%BB%A3%E7%A0%81/%E5%AE%8C%E6%88%90%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/runtime/objc-runtime-new.mm"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7544"
+                  endingLineNumber = "7544"
+                  offsetFromSymbolStart = "387">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "C217E0A8-E023-4730-A4CA-E92322C9CA01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100000d29">
+            <Locations>
+               <Location
+                  uuid = "C217E0A8-E023-4730-A4CA-E92322C9CA01 - 77b35ab53823f93a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "KCObjc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC3%E8%8A%82%E8%AF%BE-OC%E5%AF%B9%E8%B1%A1%E4%B8%8B/01--%E8%AF%BE%E5%A0%82%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/KCObjc/main.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "201">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "E964A55F-FD75-41F9-BF95-A09D4F18F90A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100000d11">
+            <Locations>
+               <Location
+                  uuid = "E964A55F-FD75-41F9-BF95-A09D4F18F90A - 77b35ab53823f93a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "KCObjc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC3%E8%8A%82%E8%AF%BE-OC%E5%AF%B9%E8%B1%A1%E4%B8%8B/01--%E8%AF%BE%E5%A0%82%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/KCObjc/main.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "177">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E6E4412-6862-463A-9C18-0CE681E658C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-accessors.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "objc_setProperty(self, offset, newValue, atomic, shouldCopy)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD8C2D42-86CF-4208-B070-8CAC621CAA67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-accessors.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "objc_setProperty_nonatomic(self, newValue, offset)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CE49ACE-ABD9-420A-8140-B1713F9D2D20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-accessors.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "objc_setProperty_nonatomic_copy(self, newValue, offset)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "E057A9D4-C834-41BB-BFE7-C2F03BDE2CAF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x1002c1703">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87FF0C8F-CA8C-4609-9A14-8E8043ED5314"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/NSObject.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "objc_storeStrong(location, obj)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5BB6D97-63FC-43B2-9332-110B820C922D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "runtime/objc-accessors.mm"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "objc_getProperty(self, offset, atomic)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "9EB3EE0E-13ED-4037-B96F-F700EDC5CE29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100000d02">
+            <Locations>
+               <Location
+                  uuid = "9EB3EE0E-13ED-4037-B96F-F700EDC5CE29 - 77b35ab53823f93a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "KCObjc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC3%E8%8A%82%E8%AF%BE-OC%E5%AF%B9%E8%B1%A1%E4%B8%8B/01--%E8%AF%BE%E5%A0%82%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/KCObjc/main.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "F3F6204B-9AE4-401E-A4FB-017445E16E14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100000ccc">
+            <Locations>
+               <Location
+                  uuid = "F3F6204B-9AE4-401E-A4FB-017445E16E14 - 77b35ab53823f9db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "KCObjc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/VIP/%E5%A4%A7%E5%B8%88%E7%8F%AD%E7%AC%AC%E4%BA%8C%E6%9C%9F/%E5%A4%A7%E5%B8%88%E7%8F%AD-%E7%AC%AC3%E8%8A%82%E8%AF%BE-OC%E5%AF%B9%E8%B1%A1%E4%B8%8B/01--%E8%AF%BE%E5%A0%82%E4%BB%A3%E7%A0%81/%E5%8F%AF%E7%BC%96%E8%AF%91objc%E6%BA%90%E7%A0%81/KCObjc/main.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

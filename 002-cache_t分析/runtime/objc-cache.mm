@@ -647,11 +647,11 @@ void cache_t::insert(Class cls, SEL sel, IMP imp, id receiver)
     ASSERT(sel != 0 && cls->isInitialized());
 
     // Use the cache as-is if it is less than 3/4 full
-    mask_t newOccupied = occupied() + 1;
-    unsigned oldCapacity = capacity(), capacity = oldCapacity;
-    if (slowpath(isConstantEmptyCache())) {
+    mask_t newOccupied = occupied() + 1; // 计算当前的occupied占用个数
+    unsigned oldCapacity = capacity(), capacity = oldCapacity; // 找到旧容器
+    if (slowpath(isConstantEmptyCache())) { // 没缓存过
         // Cache is read-only. Replace it.
-        if (!capacity) capacity = INIT_CACHE_SIZE;
+        if (!capacity) capacity = INIT_CACHE_SIZE; // 如果没有旧容器，初始化4个容器
         reallocate(oldCapacity, capacity, /* freeOld */false);
     }
     else if (fastpath(newOccupied + CACHE_END_MARKER <= capacity / 4 * 3)) { // 4  3 + 1 bucket cache_t
@@ -662,12 +662,12 @@ void cache_t::insert(Class cls, SEL sel, IMP imp, id receiver)
         if (capacity > MAX_CACHE_SIZE) {
             capacity = MAX_CACHE_SIZE;
         }
-        reallocate(oldCapacity, capacity, true);  // 内存 库容完毕
+        reallocate(oldCapacity, capacity, true);  // 内存 扩容完毕
     }
 
-    bucket_t *b = buckets();
+    bucket_t *b = buckets(); // 获取buckets
     mask_t m = capacity - 1;
-    mask_t begin = cache_hash(sel, m);
+    mask_t begin = cache_hash(sel, m); // 哈希缓存
     mask_t i = begin;
 
     // Scan for the first unused slot and insert there.
